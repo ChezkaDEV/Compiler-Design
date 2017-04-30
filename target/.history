@@ -1,0 +1,164 @@
+console
+ls
+test
+console
+bst
+compies
+compile
+run
+:quit
+sbt
+run
+compile
+run
+test
+dir
+ls
+compile 
+run
+set offline := true
+run
+compile
+run
+scala
+console
+test
+import
+import csp.ch01
+import csp.ch02
+import package csp.ch02
+compile
+scala
+console
+dir
+ls
+1+2
+compile
+run
+import csp.ch02.Intcomp1._
+import csp.ch02.Intcomp1.
+import csp.ch02.Intcomp1._
+compile
+run
+import Intcomp1._
+import csp.ch02.Intcomp1._
+import csp.ch01.Expressions._
+:quit
+import csp.ch01.Expressions._
+scala
+console
+run
+compile
+import csp.ch02.Intcomp1._
+compile
+run
+import csp.ch02.Intcomp1._
+console
+compile
+run
+import csp.ch02.intcomp1._
+scala
+console
+compile
+~run main csp.ch03.Ex05
+compile
+run
+run-main csp.ch03.Project
+~run-main csp.ch03.Project
+~run.main csp.ch03.Project
+run.main csp.ch03.Project
+run_main csp.ch03.Project
+~run_main csp.ch03.Project
+~run-main csp.ch03.Project
+~run-main csp.ch03.ex05
+~run-main csp.ch03.Ex05
+~run-main csp.ch03.Project
+run-main csp.ch03.indentation
+run-main csp.ch03.Project
+run-main csp.ch03.WS
+~run-main csp.ch03.WS
+run-main csp.ch03.Project
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+~run-main csp.ch03.WS
+run-main csp.ch03.WS
+run-main csp.ch03.Indentation
+run-main csp.ch03.WS
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+~run-main csp.ch03.test
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+~run-main csp.ch03.Preproccessor
+~run-main csp.ch03.Project
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+:quit
+~run-main csp.ch03.Project
+~run-main csp.ch03.Indentation
+~run-main csp.ch03.WS
+~run-main csp.ch03.Project
+~run-main csp.ch03.WS
+~run-main csp.ch03.prog
+~run-main csp.ch03.Prog
+~run-main csp.ch03.WS
+~run-main csp.ch03.Prog
+~run-main csp.ch03.Poop
+~run-main csp.ch03.Prog
+~run-main csp.ch03.example
+~run-main csp.ch03.Prog
+~run-main csp.ch03.Lala
+~run-main csp.ch03.Prog
+~run-main csp.ch03.MyParsers
+~run-main csp.ch03.Prog
+~run-main csp.ch03.MyParsers
+~run-main csp.ch03.Prog
+~run-main csp.ch03.MyParsers
+~run-main csp.ch02.Prog
+~run-main csp.ch02.Progg
+~run-main csp.ch03.Progg
+~run-main csp.ch03.Prog
+~run-main csp.ch03.Progg
+~run-main csp.ch03.MyParserss
+~run-main csp.ch03.Project
+~run-main csp.ch02.NaiveCodeGenFunc
+run-main csp.ch02.NaiveCodeGenFunc
+~run-main csp.ch03.Project
+run-main csp.ch03.Project
+~run-main csp.ch03.Project
+last compile: run
+last compile:run
+~run-main csp.ch03.Project
+compile:runMain
+compile:
+runMain
+run
+~run-main csp.ch03.Project
+run
+quit
+run
+6
+run
+last <6>
+<run>
+last <run>
+last run
+~run-main csp.ch03.Project
+last compile:Run
+last compile:Rrun
+last compile:run
+compile:runMain
+compile: runMain
+last compile: runMain
+last compile: run
+last compile:run
+~run-main csp.ch03.Project
+~run-main csp.ch02.NaiveCodeGenFuncArray
+~run-main csp.ch03.Project
+./count.py
+bash
+./fact.py
+./fact.s
+~run-main csp.ch03.Project

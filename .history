@@ -1,0 +1,4 @@
+~run-main csp.ch03.Ex05
+run
+compile
+sbt

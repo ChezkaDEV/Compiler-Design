@@ -1,0 +1,29 @@
+Name:				Chezka Eusebio
+Instuctor:			Pitcher, Corin
+Course:				CSC 378 - COMPLIER DESIGN
+Language:   		Python
+
+
+Homework 2: Project Work
+https://www.python.org/downloads/
+
+Download latest release:
+Python 3.4.6 2017-01-17
+
+I already had IDLE (Python GUI) on my laptop installed from previous classes.
+I will be using that. ProjectWork1.py is my Homework2 File project for Python.
+
+UPDATE: While professor was taking attendance, he recommended to use Python
+on the Command Prompt, as it is easier. So I will start using that.
+
+==============================================================================
+
+Homework 3: Functional Programming 2 (FP2)
+
+The Python Language Reference:
+https://docs.python.org/2/reference/
+
+https://inst.eecs.berkeley.edu/~cs164/fa11/python-grammar.html
+
+I had succefully parsed a def main function in Python.
+includes: def, while loop, and assign statement, and equal condition (while (count == 0))
